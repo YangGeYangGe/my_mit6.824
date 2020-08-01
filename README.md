@@ -4,3 +4,6 @@
 
 The lab homepage
   http://nil.csail.mit.edu/6.824/2018/index.html
+
+MapReduce paper
+  http://nil.csail.mit.edu/6.824/2020//papers/mapreduce.pdf
